@@ -1,0 +1,33 @@
+h1{
+    margin-left: 550px;
+    justify-content: space-between ;
+    color:rgb(0, 0, 139);
+}
+*{
+    
+    background-color: rgb(248, 134, 248);
+    margin: 15px;
+}
+.origami{
+    display:flex;
+
+    flex-wrap: wrap;
+}
+.footer{
+    margin-left: 1700px;
+    justify-content: right;
+}
+p{
+    margin-left: 150px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    color: indigo;
+}
+h2{
+    margin-left: 650px;
+}
+h3{
+    margin-left: 650px;
+    font-weight: bolder;
+}
